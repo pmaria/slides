@@ -1,31 +1,71 @@
-# Markdown Demo
+# Semantic modeling at Kadaster
 
 
 
-## External 1.1
+## Kadaster datasets as Linked Data
 
-Content 1.1
+BAG [https://bag.basisregistraties.overheid.nl/]((https://bag.basisregistraties.overheid.nl/))
+
+BRT [https://brt.basisregistraties.overheid.nl/]((https://brt.basisregistraties.overheid.nl/))
+
+BRK [https://brk.basisregistraties.overheid.nl/]((https://brk.basisregistraties.overheid.nl/))
 
 Note: This will only appear in the speaker notes window.
 
 
-## External 1.2
 
-Content 1.2
+## What is the BAG?
 
+BAG is a registry of addresses and buildings in the Netherlands
 
+Repository containing document resources that describe the situation of addresses and buildings
 
-## External 2
-
-Content 2.1
-
+Natiional repository where these resources are electronically combined and distributed
 
 
-## External 3.1
+##
 
-Content 3.1
+[plaatje]
 
 
-## External 3.2
 
-Content 3.2
+## Existing information models
+
+IMBAG
+
+IMBRT
+
+IMBRK
+
+
+## 
+
+[UML example of IMBAG]
+
+
+
+## Our principles for semantic modeling
+
+
+## Seperate terminology from ontology
+
+
+## Separate model parts and structure
+
+
+## Distinguish real world entities
+
+
+## Multiple typing where necessary
+
+
+## Use existing vocabularies where applicable
+
+
+## Use named graphs as to provide context
+
+
+
+## Examples
+
+
